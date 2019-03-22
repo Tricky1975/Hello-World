@@ -11,3 +11,4 @@ That goes for:
 - Brainfuck
 - COBOL (both examples)
 - Haskell
+- INTERCAL
