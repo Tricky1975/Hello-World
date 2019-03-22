@@ -10,6 +10,7 @@ That goes for:
 - Brainfuck
 - COBOL (both examples)
 - COW
+- D
 - Haskell
 - INTERCAL
 - Java
