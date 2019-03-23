@@ -14,3 +14,4 @@ That goes for:
 - Haskell
 - INTERCAL
 - Java
+- Shakespear
