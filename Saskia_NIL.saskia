@@ -1,0 +1,5 @@
+:main_part
+  call print,"Hello World"
+  end
+  
+; Since SASKIA can only be used in scripting style aiming for labels in a kind of callback setting, this source could need a different label depending on how the underlying NIL script calls this.
